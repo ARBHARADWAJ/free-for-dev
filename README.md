@@ -1746,6 +1746,7 @@ Update Time, five active automations, webhooks.
   * [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
   * [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
   * [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
+  * [FireBase Studio](https://firebase.studio) - Free online editor from Google which can support many languages.Can develop application in large scale and have fun.
 
 
 **[⬆️ Back to Top](#table-of-contents)**
